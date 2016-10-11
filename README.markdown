@@ -1,4 +1,4 @@
-# FORK PATCHED FOR VMWARE 4.0+
+# FORK WITH HACKED OPTIONS
 
 Vmwarephp
 --------
