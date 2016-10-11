@@ -1,3 +1,5 @@
+# FORK PATCHED FOR VMWARE 4.0+
+
 Vmwarephp
 --------
 
